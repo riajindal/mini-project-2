@@ -10,8 +10,7 @@ const CardDeal = () => (
         A Roadmap to IndicVerse <br className="sm:block hidden" />
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
-        aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
+        As a budding endeavour, IndicVerse would like to share its journey with you and take you along for the ride
       </p>
 
       {/* <Button styles={`mt-10`} /> */}

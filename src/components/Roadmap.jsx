@@ -14,20 +14,20 @@ export default function Roadmap() {
           <TimelineDot />
           <TimelineConnector sx={{ height: '4.8rem' }} />
         </TimelineSeparator>
-        <TimelineContent color='white' fontWeight='500' fontFamily="poppins" padding="2" lineHeight="0.8" fontSize="200%">Eat</TimelineContent>
+        <TimelineContent color='white' fontWeight='500' fontFamily="poppins" fontSize="100%">Community Building</TimelineContent>
       </TimelineItem>
       <TimelineItem>
         <TimelineSeparator>
           <TimelineDot />
           <TimelineConnector sx={{ height: '4.8rem' }} s />
         </TimelineSeparator>
-        <TimelineContent color='white' fontWeight='500' fontFamily="poppins" lineHeight="0.8" fontSize="200%">Code</TimelineContent>
+        <TimelineContent color='white' fontWeight='500' fontFamily="poppins"fontSize="100%">First NFT Launch</TimelineContent>
       </TimelineItem>
       <TimelineItem>
         <TimelineSeparator>
           <TimelineDot />
         </TimelineSeparator>
-        <TimelineContent color='white' fontWeight='500' fontFamily="poppins" lineHeight="0.8" fontSize="200%">Sleep</TimelineContent>
+        <TimelineContent color='white' fontWeight='500' fontFamily="poppins" fontSize="100%">Launch Metaverse</TimelineContent>
       </TimelineItem>
     </Timeline>
   );
